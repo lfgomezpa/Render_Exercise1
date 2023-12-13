@@ -1,2 +1,2 @@
-# Render_Exercise1
+# Render Exercise App Web
 ## Ejercicio de aplicaciones web de la plataforma Tripleten
